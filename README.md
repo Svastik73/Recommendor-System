@@ -1,6 +1,6 @@
 
 # Recommendor-System
-$${\color{red}The collaborative filtering learning algorithm}$$
+$${\color{red}The \collaborative\ filtering \learning\ algorithm\}$$
 ```diff
 
 + Apply it to a dataset of movie ratings. The goal is to generate two vectors: 
